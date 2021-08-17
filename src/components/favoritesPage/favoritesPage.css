@@ -1,0 +1,19 @@
+.favorites-main-section {
+    width: 100%;
+    min-height: calc(100% - 65px);
+    display: flex;
+    flex-direction: column;
+}
+
+.favorites-header {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.favorites-body {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 1rem 0;
+}

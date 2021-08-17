@@ -1,0 +1,15 @@
+.search {
+    width: 80%;
+    padding: 1rem 0 2.5rem 0;
+    margin: 0 auto;
+}
+
+.search-not-allowed-div {
+    height: 1.5rem;
+}
+
+.search-not-allowed-text {
+    color: red;
+    font-size: 0.8rem;
+    padding-left: 1rem;
+}
